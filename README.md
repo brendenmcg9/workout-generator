@@ -10,4 +10,4 @@
 
 - Tasks currently missing: exception handling
 
-- Features to be implemented will be located in other text file
+- Features to be implemented will be located in FEATURES.md
